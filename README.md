@@ -6,10 +6,9 @@ This is a new journey as I set out once again to do a seemingly impossible thing
 
 *I do love an adventure. Scary or uncertain as they may be.* 
 
->Ever hear that doing the same thing over again, expecting different results is the   
-definition of insanity'? Well, ometimes that's the same definition as practice.  
-Of course, use your own best judgement and discretion. :judge:
-
+###### Ever hear that doing the same thing over again, expecting different results is the   
+###### definition of ~~insanity~~? Well, sometimes that's the same definition as **practice**.  
+###### Of course, use discretion and your own best judgement. :judge:
 
 
  For now, it is a smoll world here :earth_americas:  
@@ -27,11 +26,12 @@ Of course, use your own best judgement and discretion. :judge:
 
   
 #### *Because why not* : 
-``"Beware he who would deny you access to information, for in his heart he dreams himself your your master." -Pravin Lal``
+```
+"Beware he who would deny you access to information, for in his heart he dreams himself your your master." -Pravin Lal``
 
-``"Hearts are the strongest when they beat in response to noble ideas." -Ralph Bunche`` 
+"Hearts are the strongest when they beat in response to noble ideas." -Ralph Bunche`` 
 
-``"Freedom lies in being bold." -Robert Frost``  
-
+"Freedom lies in being bold." -Robert Frost``  
+```
 **Stay brave & always adventure *when* you can, *while* you can**  
 ###### Thanks for stopping by. :wave:  
