@@ -1,6 +1,6 @@
 ## Hello, World. I'm Jess. :grinning:
 ### Welcome to my github repository! 
- It is a smoll world :earth_americas: here now but it will grow :hammer_and_wrench:  
+ For now it is a smoll world :earth_americas: but over time and with effort, it shall grow :hammer_and_wrench:  
  Hope you enjoy and thanks for stopping by. :wave:    
 
   
