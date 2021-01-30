@@ -4,7 +4,7 @@
 This is a new journey as I set out once again to do a seemingly impossible thing.  
 >Impossible that is, until you do it.  ``"It's only hubris if I fail." --Julius Cesar``   
 
-*I do love an adventure. Scary or uncertain as they may be.* 
+***I do love an adventure. Scary and uncertain as they may be.*** 
 
 >Ever hear that doing the same thing over again, expecting different results is the  
 definition of **~~insanity~~**? Well, sometimes it is the same definition as **practice**.  
