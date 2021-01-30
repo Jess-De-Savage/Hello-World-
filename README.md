@@ -1,4 +1,4 @@
-## Hello, World. I'm Jess. :grinning:
+## Hello, World. I'm Jess :grinning:
 ### Welcome to my github repository!  
 
 This is a new journey as I set out once again to do a seemingly impossible thing.  
