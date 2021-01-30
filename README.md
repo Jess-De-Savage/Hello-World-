@@ -7,7 +7,7 @@ This is a new journey as I set out once again to do a seemingly impossible thing
 
 *I do love an adventure. Scary or uncertain as they may be.* 
 
-----------------
+
  For now, it is a smoll world here :earth_americas:  
  Over time, with effort, it shall grow. :hammer_and_wrench:  
  
