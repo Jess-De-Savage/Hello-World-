@@ -26,11 +26,11 @@ This is a new journey as I set out once again to do a seemingly impossible thing
 
   
 #### *Because why not* : 
-``"Beware he who would deny you access to information, for in his heart he dreams himself your your master." --Pravin Lal``
+``"Beware he who would deny you access to information, for in his heart he dreams himself your your master." -Pravin Lal``
 
-``"Hearts are the strongest when they beat in response to noble ideas." --Ralph Bunche`` 
+``"Hearts are the strongest when they beat in response to noble ideas." -Ralph Bunche`` 
 
-``"Freedom lies in being bold." --Robert Frost``  
+``"Freedom lies in being bold." -Robert Frost``  
 
 **Stay brave & always adventure *when* you can, *while* you can**  
 ###### Thanks for stopping by. :wave:  
