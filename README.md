@@ -25,7 +25,7 @@ Of course, use discretion and your own best judgement. :judge:
 
 
   
-#### *Because why not* : 
+#### Because why not : 
 ```
 "Beware he who would deny you access to information, for in his heart he dreams himself your your master." -Pravin Lal``
 
