@@ -6,7 +6,6 @@ This is a new journey as I set out once again to do a seemingly impossible thing
 
 ``"It's only hubris if I fail." --Julius Cesar``  
 
-
 ---------------
 
 *I do love an adventure. Scary or uncertain as they may be.* 
