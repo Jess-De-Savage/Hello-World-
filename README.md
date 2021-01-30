@@ -6,19 +6,25 @@ This is a my new journey as I set out once more to do a seemingly impossible thi
 ``"It's only hubris if I fail." --Julius Cesar``  
 
 I have always loved an adventure. Scary or uncertain as they may be.   
- For now, it is a smoll world :earth_americas: but over time and with effort, it shall grow :hammer_and_wrench:  
+ For now, it is a smoll world here :earth_americas:  
+ Over time, with effort it shall grow. :hammer_and_wrench:  
+ 
+ This library will be a collection filled with what grabs my attention and sparks an interest  
+ including but not limited to:  
+ - Various programming of assorted languages, maybe even some original work        
+ - All things InfoSec and InfoTec  
+ - Writeups and sample reports 
+ - A Love of Robotics  
  Hope you enjoy and thanks for stopping by. :wave:    
  
- **I hope that you always stay brave** 
+ **Always stay brave** 
 
   
   
   
     
   
-### From some great minds: 
-
-
+### From some great minds (just because I can): 
 ``"Beware he who would deny you access to information, for in his heart he dreams himself your your master." --Pravin Lal``
 
 ``"Hearts are the strongest when they beat in response to noble ideas." --Ralph Bunche`` 
