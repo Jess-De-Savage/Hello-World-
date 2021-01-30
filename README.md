@@ -1,5 +1,9 @@
 ## Hello, World. I'm Jess. :grinning:
-### Welcome to my github repository! 
+### Welcome to my github repository!  
+
+This is a my new journey as I set out once more to do a seemingly impossible thing  
+>That is, until you do it  
+I have always loved an adventure, scary or uncertain as they may be  
  For now it is a smoll world :earth_americas: but over time and with effort, it shall grow :hammer_and_wrench:  
  Hope you enjoy and thanks for stopping by. :wave:    
 
