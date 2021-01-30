@@ -6,9 +6,9 @@ This is a new journey as I set out once again to do a seemingly impossible thing
 
 *I do love an adventure. Scary or uncertain as they may be.* 
 
->Ever heard that doing the same thing over again expecting different results is the   
-definition of insanity'? Sometimes that's the same definition of practice.  
-Use your own best judgement and discretion, though. :judge:
+>Ever hear that doing the same thing over again, expecting different results is the   
+definition of insanity'? Well, ometimes that's the same definition as practice.  
+Of course, use your own best judgement and discretion. :judge:
 
 
 
