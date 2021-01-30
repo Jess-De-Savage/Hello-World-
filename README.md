@@ -14,13 +14,14 @@ Of course, use discretion and your own best judgement. :judge:
  For now, it is a smoll world here :earth_americas:  
  Over time, with effort, it shall grow. :hammer_and_wrench:  
  
+ *************
  This library will be a collection filled with what grabs my attention 
  and sparks interest in my mind including but not limited to:    
  - Various programming of assorted languages        
  - All things InfoSec and InfoTec  
  - Writeups and sample reports 
  - A fondness for Robotics   
------------------
+***********
  
 
 
