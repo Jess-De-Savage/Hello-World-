@@ -7,7 +7,7 @@ This is a new journey as I set out once again to do a seemingly impossible thing
 ***I do love an adventure. Scary and uncertain as they may be.*** 
 
 >Ever hear that doing the same thing over again, expecting different results is the  
-definition of **~~insanity~~**? Well, sometimes it is the same definition as **practice**.  
+definition of ***~~insanity~~***? Well, sometimes it is the same definition as ***practice***.  
 Of course, use discretion and your own best judgement. :judge:
 
 
