@@ -3,6 +3,7 @@
 
 This is a my new journey as I set out once more to do a seemingly impossible thing  
 >Impossible, that is, until you do it.  
+
 ``"It's only hubris if I fail." --Julius Cesar``  
 
 I have always loved an adventure. Scary or uncertain as they may be.   
