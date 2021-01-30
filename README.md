@@ -4,8 +4,12 @@
 This is a new journey as I set out once again to do a seemingly impossible thing.  
 >Impossible that is, until you do it.  ``"It's only hubris if I fail." --Julius Cesar``   
 
-
 *I do love an adventure. Scary or uncertain as they may be.* 
+
+Ever heard that doing the same thing over again expecting different results is the 
+definition of insanity'? Sometimes it's really the definition of practice.  
+Use your own best judgement and discretion, though. :judge:
+
 
 
  For now, it is a smoll world here :earth_americas:  
