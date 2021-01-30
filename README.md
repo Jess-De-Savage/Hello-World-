@@ -8,7 +8,7 @@ This is a my new journey as I set out once more to do a seemingly impossible thi
 
 ---------------
 
-I do love an adventure. Scary or uncertain as they may be. 
+*I do love an adventure. Scary or uncertain as they may be.* 
 
 ----------------
  For now, it is a smoll world here :earth_americas:  
