@@ -1,4 +1,4 @@
-## Hello, Friends, I'm Jess :EMOJOCODE:grinning
+## Hello, Friends, I'm Jess :EMOJICODE:grinning
 ### Welcome to my github repository! 
 #### It may be smoll world now but I do plan to build it out  
 #### Hope you enjoy your time here and thanks for stopping by. 
