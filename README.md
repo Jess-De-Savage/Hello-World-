@@ -1,7 +1,7 @@
 ## Hello, World. I'm Jess. :grinning:
 ### Welcome to my github repository! 
-#### It is a smoll world :earth_americas: here now but it will grow :hammer_and_wrench:
-#### Hope you enjoy and thanks for stopping by. :wave:   
+ It is a smoll world :earth_americas: here now but it will grow :hammer_and_wrench:
+ Hope you enjoy and thanks for stopping by. :wave:   
 
   
 ### From some great minds: 
