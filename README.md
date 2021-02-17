@@ -17,7 +17,7 @@ Of course, use discretion and your own best judgement. :judge:
  *************
  This library will be a collection filled with what grabs my attention   
  and sparks interest in my mind including, but not limited to:    
- - Various programming of assorted languages        
+ - Various programming and scripting languages        
  - All things InfoSec and InfoTec  
  - Writeups and sample reports 
  - A fondness for Robotics   
@@ -28,11 +28,11 @@ Of course, use discretion and your own best judgement. :judge:
   
 #### Because why not : 
 ```
-"Beware he who would deny you access to information, for in his heart he dreams himself your your master." -Pravin Lal``
+"Beware he who would deny you access to information, for in his heart he dreams himself your your master." -Pravin Lal
 
-"Hearts are the strongest when they beat in response to noble ideas." -Ralph Bunche`` 
+"Hearts are the strongest when they beat in response to noble ideas." -Ralph Bunche
 
-"Freedom lies in being bold." -Robert Frost``  
+"Freedom lies in being bold." -Robert Frost  
 ```
 **Stay brave & always adventure *when* you can, *while* you can**  
 ###### Thanks for stopping by. :wave:  
