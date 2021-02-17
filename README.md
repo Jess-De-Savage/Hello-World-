@@ -16,11 +16,11 @@ Of course, use discretion and your own best judgement. :judge:
  
  *************
  This library will be a collection filled with what grabs my attention   
- and sparks interest in my mind including, but not limited to:    
+ and sparks personal interest including, but not limited to:    
  - Various programming and scripting languages        
  - All things InfoSec and InfoTec  
- - Writeups and sample reports 
- - A fondness for Robotics   
+ - Projects  
+ - Robotics   
 ***********
  
 
