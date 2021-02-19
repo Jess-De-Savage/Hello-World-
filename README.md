@@ -2,7 +2,8 @@
 ### Welcome to my github repository!  
 
 This is a my journey as I set out once again to do what seemed to be impossible.  
->Impossible that is, until you do it.  ``"It's only hubris if I fail." --Julius Cesar``   
+>Impossible that is, until you do it.  
+>``"It's only hubris if I fail." --Julius Cesar``   
 
 ***I do love an adventure. Scary and uncertain as they may be.*** 
 
