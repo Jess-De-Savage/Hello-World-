@@ -1,7 +1,7 @@
 ## Hello, World. I'm Jess :grinning:
 ### Welcome to my github repository!  
 
-This is a my journey as I set out once again to do what seemed to be impossible.  
+This is a my journey as I set out once again to do what seems to be an impossible thing.  
 >Impossible that is, until you do it.  
 >``"It's only hubris if I fail." --Julius Cesar``   
 
