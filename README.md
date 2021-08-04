@@ -1,7 +1,7 @@
 ## Hello, World. I'm Jess :grinning:
 ### Welcome to my github repository!  
 
-This is a my journey as I set out once again to do what seems to be an impossible thing.  
+This is a my journey as I set out again to learn more.  
 >Impossible that is, until you do it.  
 >``"It's only hubris if I fail." --Julius Cesar``   
 
@@ -12,16 +12,17 @@ definition of ***~~insanity~~***? Well, sometimes it's the same definition as **
 Of course, use discretion and your own best judgement. :judge:
 
 
- For now, it is a smoll world here :earth_americas:  
- Over time, with effort, it shall grow. :hammer_and_wrench:  
+:earth_americas:  
+ 
  
  *************
  This library will be a collection filled with what grabs my attention   
  and sparks personal interest including, but not limited to:    
  - Various programming and scripting languages        
- - All things InfoSec and InfoTec  
+ - InfoSec and InfoTec   
  - Projects  
- - Robotics   
+ - Robotics 
+ 
 ***********
  
 
@@ -29,7 +30,7 @@ Of course, use discretion and your own best judgement. :judge:
   
 #### Because why not : 
 ```
-"Beware he who would deny you access to information, for in his heart he dreams himself your your master." -Pravin Lal
+"Beware he who would deny you access to information, for in his heart he dreams himself your master." -Pravin Lal
 
 "Hearts are the strongest when they beat in response to noble ideas." -Ralph Bunche
 
